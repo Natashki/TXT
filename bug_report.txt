@@ -1,1 +1,4 @@
-
+id - 1
+Title - Don't work
+Environment - ver. 3.0, xiaomi mi note 10 lite, android 11
+Description - Steps: 1. Open application. 2. Touch button. Actuali result: button not active. Expected result: open magic tool.
